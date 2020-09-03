@@ -1,0 +1,16 @@
+{
+    "jobs":[
+        {
+            "jobCode":20021,
+            "jobTitle":"Software Engineer",
+            "jobStatus":"open",
+            "jobLocation":"hyderabad"
+        },
+        {
+            "jobCode":20022,
+            "jobTitle":"Software Engineer",
+            "jobStatus":"hired",
+            "jobLocation":"hyderabad"
+        }
+    ]
+}
